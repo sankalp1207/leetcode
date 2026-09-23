@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/sankalp1207/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sankalp1207/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sankalp1207/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/sankalp1207/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/sankalp1207/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sankalp1207/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -42,6 +43,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/sankalp1207/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/sankalp1207/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sankalp1207/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sankalp1207/leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sankalp1207/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
