@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sankalp1207/leetcode/tree/master/0217-contains-duplicate) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/sankalp1207/leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
