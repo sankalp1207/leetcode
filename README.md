@@ -76,5 +76,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/sankalp1207/leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/sankalp1207/leetcode/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sankalp1207/leetcode/tree/master/0841-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sankalp1207/leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
